@@ -9,6 +9,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:vann="http://purl.org/vocab/vann/"
+	 xmlns:esair="http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/calidad-aire#"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/calidad-aire">
         <owl:versionIRI rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/medio-ambiente/calidad-aire"/>
